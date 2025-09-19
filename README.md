@@ -1,5 +1,7 @@
-### **Igor Cardoso Trindade**
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7b5fc0&height=120&section=header"/>
 
+
+### **Igor Cardoso Trindade**
 🎓 Estudante de **Ciência da Computação** na SPTECH, com formação voltada para **desenvolvimento de sistemas**, **arquitetura de software**, **análise de dados** e **segurança da informação**.  
 🔐 Focado em **Segurança Digital**, **Cloud Computing** e **Desenvolvimento Web**, utilizando tecnologias como **Java**, **Python**, **MySQL**, **Linux** e **Docker**.  
 💻 Atualmente aprofundando conhecimentos em **infraestrutura de software**, **computação em nuvem**, **DevOps** e **modelagem de dados**.  
@@ -40,18 +42,23 @@ const IgorCardoso = {
 
 
 ---
+<div align='center'>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igor-trindade&langs_count=10&theme=tokyonight&layout=compact" alt="igor-trindade :: Top Langs" />
-</p>
+  <div align="center">  
+    <img width="49%" height="195px" 
+         src="https://github-readme-stats.vercel.app/api?username=igor-trindade&show_icons=true&count_private=true&title_color=ff6aff&icon_color=d600ff&text_color=ffffff&bg_color=0d1117&border_color=ff00ff" /> 
+    <img width="41%" height="195px" 
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=igor-trindade&layout=compact&title_color=ff6aff&text_color=ffffff&bg_color=0d1117&border_color=ff00ff" />
+  </div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=igor-trindade&show_icons=true&theme=synthwave" alt="igor-trindade :: Profile Stats" />
-</p>
+</div>
+</div>
 
-<p align="center">
-  <img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500">
-</p>
+<div align="center">
+
+![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/igor-trindade?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=purple)
+
+</div>
 
 ## 🌐 Contato  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cardosoigor113@gmail.com)  
@@ -60,3 +67,6 @@ const IgorCardoso = {
 ---
 
 ✨ *"Always learning, always building. Knowledge is the best investment."*
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7b5fc0&height=120&section=footer"/>
+

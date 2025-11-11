@@ -18,8 +18,6 @@
   <img src="https://komarev.com/ghpvc/?username=igortrindade&style=for-the-badge&color=FF6B6B&label=PROFILE+VIEWS" alt="Profile Views"/>
 </div>
 
----
-
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
@@ -127,27 +125,29 @@ const developer = {
 
 
 ## 🎓 **What I'm Studying at SPTECH**
+## 🎓 **What I'm Studying at SPTECH**
 <div align="center">
   <table>
     <tr>
       <td align="center" width="33%">
-        <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="100" alt="Computer Architecture"/>
+        <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeG9jamp5Y3N3Zmc5Zm1wNDV6Y2xlcWR2MDU1eGl2ZXpsMTRvYXl3OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d30AvRsaHRWtpIz0wK/giphy.gif" width="200" alt="Computer Architecture"/>
         <h3 style="color:#B200F5;">🧠 Computer Architecture</h3>
-        <p style="color:#C77DFF;">Exploração profunda de design de processadores, hierarquia de memória e integração de sistemas para desempenho otimizado.</p>
+        <p style="color:#C77DFF;">Deep exploration of processor design, memory hierarchy, and system integration for optimized performance.</p>
       </td>
       <td align="center" width="33%">
-        <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="100" alt="Programming"/>
+        <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjB1ajZkcnEwbnljd214MGx2dzg0d2VwNzJheHZvNzhxdGprN2F5eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif" width="200" alt="Programming"/>
         <h3 style="color:#B200F5;">💻 Programming & Algorithms</h3>
-        <p style="color:#C77DFF;">Desenvolvimento de soluções escaláveis e eficientes com raciocínio algorítmico, estruturas de dados e boas práticas de código.</p>
+        <p style="color:#C77DFF;">Development of scalable and efficient solutions using algorithmic reasoning, data structures, and clean coding practices.</p>
       </td>
       <td align="center" width="33%">
-        <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="100" alt="Cloud Infrastructure"/>
+        <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExampvbWxrZXUxYTkwOG1iZDJqYWJlcTFyOXZpODQ3bHF3Njc4eGU3MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif" width="200" alt="Cloud Infrastructure"/>
         <h3 style="color:#B200F5;">☁️ Cloud & DevOps</h3>
-        <p style="color:#C77DFF;">Domínio de infraestrutura em nuvem, automação de pipelines, monitoramento e práticas DevOps para sistemas modernos e escaláveis.</p>
+        <p style="color:#C77DFF;">Mastery of cloud infrastructure, pipeline automation, monitoring, DevOps practices for modern and scalable systems.</p>
       </td>
     </tr>
   </table>
 </div>
+
 
 
 <div align="center">
@@ -159,7 +159,19 @@ const developer = {
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=E100EB&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+⭐;Let's+build+something+incredible+together!+🚀;Always+open+to+new+opportunities!+💼" alt="Footer Text" />
 </div>
 
+## 🌐 Contacts - Click anywhere
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer" alt="Footer"/>
+  <a href="mailto:seuemail@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/seuusuario/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/seuusuario/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram"/>
+  </a>
 </div>
-Streak +2
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8300B3,100:FF00DD&height=150&section=footer" alt="Footer"/>
+</div>

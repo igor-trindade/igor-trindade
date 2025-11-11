@@ -111,9 +111,10 @@ const developer = {
 
 </div>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=igor-trindade&theme=tokyo-night&bg_color=0d1117&color=00d9ff&line=ffd700&point=ffffff&area=true&hide_border=true&area_color=00d9ff" alt="Contribution Graph" width="95%"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=igor-trindade&theme=tokyo-night&bg_color=0d1117&color=E100EB&line=CA00D1&point=ffffff&area=true&hide_border=true&area_color=F1A3FF&colors=F1A3FF%2CE100EB%2CF75CFF%2CCA00D1%2C8300B3" 
+  alt="Contribution Graph" width="95%"/>
 </div>
+
 
 <div align="center">
   
@@ -124,7 +125,6 @@ const developer = {
 </div>
 
 
-## 🎓 **What I'm Studying at SPTECH**
 ## 🎓 **What I'm Studying at SPTECH**
 <div align="center">
   <table>
@@ -146,6 +146,12 @@ const developer = {
       </td>
     </tr>
   </table>
+<h3 style="font-size: 16px;">💻 <b>More about my college and academic background.</b></h3>
+<a href="https://sptech.school/ciencia-da-computacao/" target="_blank">
+  <img src="https://sptech.school/wp-content/uploads/2025/02/sptech_principal.png" width="100" alt="São Paulo Tech School Logo"/>
+</a>
+
+
 </div>
 
 
@@ -162,13 +168,13 @@ const developer = {
 ## 🌐 Contacts - Click anywhere
 
 <div align="center">
-  <a href="mailto:seuemail@gmail.com" target="_blank">
+  <a href="mailto:cardosoigor113@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/>
   </a>
   <a href="https://www.linkedin.com/in/seuusuario/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
   </a>
-  <a href="https://www.instagram.com/seuusuario/" target="_blank">
+  <a href="https://www.instagram.com/iguhh_13/" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram"/>
   </a>
 </div>

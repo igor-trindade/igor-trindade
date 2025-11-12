@@ -161,7 +161,7 @@ const developer = {
   <a href="mailto:cardosoigor113@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/>
   </a>
-  <a href="https://www.linkedin.com/in/seuusuario/" target="_blank">
+  <a href="https://www.linkedin.com/in/igorcardosotrindade/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
   </a>
   <a href="https://www.instagram.com/iguhh_13/" target="_blank">

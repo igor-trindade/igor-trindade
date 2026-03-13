@@ -1,21 +1,19 @@
-# <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8300B3,100:FF00DD&customColorList=9,6&height=350&section=header&text=Hi%20there,%20I'm%20Igor%20C%20Trindade%20👋&fontSize=55&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20|%20Tech%20Innovator%20|%20Student%20Computer%20Cience&descAlignY=55&descAlign=62" alt="Header" />
-</div>
-
-  
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=32&duration=2500&pause=800&color=E100EB&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=140&lines=🚀+Student+Computer+Cience;💻+Building+Digital+Experiences;🌟+Passionate+Problem+Solver" alt="Typing SVG" />
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8300B3,100:FF00DD&customColorList=9,6&height=350&section=header&text=Hi%20there,%20I'm%20Igor%20C%20Trindade%20👋&fontSize=55&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20|%20Tech%20Innovator%20|%20Computer%20Science%20Student&descAlignY=55&descAlign=62" alt="Header" />
 </div>
 
 <div align="center">
-  <a href="https://github.com/igortrindade">
-    <img src="https://img.shields.io/github/followers/igortrindade?label=Followers&style=for-the-badge&color=00D9FF&labelColor=1a1a1a" alt="GitHub Followers"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=32&duration=2500&pause=800&color=E100EB&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=140&lines=🚀+Computer+Science+Student;💻+Building+Digital+Experiences;🌟+Passionate+Problem+Solver" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <a href="https://github.com/igor-trindade">
+    <img src="https://img.shields.io/github/followers/igor-trindade?label=Followers&style=for-the-badge&color=00D9FF&labelColor=1a1a1a" alt="GitHub Followers"/>
   </a>
-  <a href="https://github.com/igortrindade">
-    <img src="https://img.shields.io/github/stars/igortrindade?label=Profile%20Stars&style=for-the-badge&color=FFD700&labelColor=1a1a1a" alt="GitHub Stars"/>
+  <a href="https://github.com/igor-trindade">
+    <img src="https://img.shields.io/github/stars/igor-trindade?label=Profile%20Stars&style=for-the-badge&color=FFD700&labelColor=1a1a1a" alt="GitHub Stars"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=igortrindade&style=for-the-badge&color=FF6B6B&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=igor-trindade&style=for-the-badge&color=FF6B6B&label=PROFILE+VIEWS" alt="Profile Views"/>
 </div>
 
 <div align="center">
@@ -34,16 +32,14 @@
 
 ```javascript
 const developer = {
-    name: "Igor Cardoso trindade",
+    name: "Igor Cardoso Trindade",
     title: "Student Software Developer",
     location: "Brazil",
-    experience: "1 year studing",
-    languages: ["Java", "Python","Rcode","JavaScript","HTML","CSS","MySQL"],
+    experience: "1 year studying",
+    languages: ["Java", "Python","R","JavaScript","HTML","CSS","MySQL"],
     tools: ["Node.js","AWS","Docker","VSCode","IntelliJ","RStudio"],
     architecture: ["microservices"],
-    currentFocus: {
-         "Learning Cloud Computing, DevOps and cyberSecurity"
-    },
+    currentFocus: ["Learning Cloud Computing, DevOps and Cybersecurity"],
     motto: "Code with passion, build with purpose! ✨"
 };
 ```
@@ -63,7 +59,7 @@ const developer = {
   <img src="https://skillicons.dev/icons?i=html,css,js,python,java,nodejs,docker,aws,git,github,powershell,r,vscode,arduino,mysql,idea,figma,ai,ae,ps,&perline=14" alt="Tech Stack"/>
 </div>
 
-### 💻 **Languages & System Operational**
+### 💻 **Languages & Operating Systems**
 <div align="center">
 
 **OS**
@@ -72,7 +68,7 @@ const developer = {
 ![Ubuntu Server](https://img.shields.io/badge/Ubuntu%20Server-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-**Lenguages & Tools**
+**Languages & Tools**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
@@ -96,26 +92,21 @@ const developer = {
   </table>
 </div>
 
-
 ![GitHub 3D Contribution Graph](https://ssr-contributions-svg.vercel.app/_/igor-trindade?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=purple&colors=F1A3FF%2CE100EB%2CF75CFF%2CCA00D1%2C8300B3&dark=true)
 
 </div>
+
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=igor-trindade&theme=tokyo-night&bg_color=0d1117&color=E100EB&line=CA00D1&point=ffffff&area=true&hide_border=true&area_color=F1A3FF&colors=F1A3FF%2CE100EB%2CF75CFF%2CCA00D1%2C8300B3" 
   alt="Contribution Graph" width="95%"/>
 </div>
 
-
 <div align="center">
-  
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated GIF"/>
 </div>
 
-  </table>
-</div>
-
-
 ## 🎓 **What I'm Studying at SPTECH**
+
 <div align="center">
   <table>
     <tr>
@@ -136,23 +127,25 @@ const developer = {
       </td>
     </tr>
   </table>
+
 <h3 style="font-size: 16px;">💻 <b>More about my college and academic background.</b></h3>
+
 <a href="https://sptech.school/ciencia-da-computacao/" target="_blank">
   <img src="https://sptech.school/wp-content/uploads/2025/02/sptech_principal.png" width="100" alt="São Paulo Tech School Logo"/>
 </a>
 
-
 </div>
-
-
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
-  
-  <br><br>
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=E100EB&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+⭐;Let's+build+something+incredible+together!+🚀;Always+open+to+new+opportunities!+💼" alt="Footer Text" />
+
+<br><br>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=E100EB&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+⭐;Let's+build+something+incredible+together!+🚀;Always+open+to+new+opportunities!+💼" alt="Footer Text" />
+
 </div>
 
 ## 🌐 Contacts - Click anywhere
@@ -168,6 +161,7 @@ const developer = {
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram"/>
   </a>
 </div>
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8300B3,100:FF00DD&height=150&section=footer" alt="Footer"/>
 </div>
